@@ -1,0 +1,10 @@
+nano .gitignor# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv (if any)
+venv/
+.env
